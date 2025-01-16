@@ -1,0 +1,11 @@
+{
+  "name": "teszt",
+  "version": "1.0.2",
+  "description": "Ez egy teszt oldal",
+  "main": "index.js",
+  "scripts": {
+    "test": "zsombor"
+  },
+  "author": "PA",
+  "license": "ISC"
+}
