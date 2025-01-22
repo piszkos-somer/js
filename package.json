@@ -4,8 +4,16 @@
   "description": "Ez egy teszt oldal",
   "main": "index.js",
   "scripts": {
-    "test": "zsombor"
+    "test": "zsombor",
+    "start": "node server.js"
   },
   "author": "PA",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.1.9"
+  }
 }
